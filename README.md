@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:F8BBD0,50:F4A6C1,100:E88AB0&text=Maria%20Eduarda&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Data%20Science%20%7C%20Artificial%20Intelligence&descAlignY=55&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:F8BBD0,50:E88AB0,100:C85A8E&text=Maria%20Eduarda&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Data%20Science%20%7C%20Artificial%20Intelligence&descAlignY=55&descSize=17"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=A93E73&center=true&vCenter=true&width=600&lines=Data+Science+%26+Artificial+Intelligence;Python+%7C+SQL+%7C+Power+BI;Transformando+dados+em+decis%C3%B5es." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=E88AB0&center=true&vCenter=true&width=600&lines=Data+Science+%26+Artificial+Intelligence;Python+%7C+SQL+%7C+Power+BI;Transformando+dados+em+decis%C3%B5es." />
 
 <br>
 
