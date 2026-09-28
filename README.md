@@ -77,7 +77,7 @@
 
 Projeto acadêmico desenvolvido em equipe para transformar dados hospitalares em informações estratégicas para apoio à tomada de decisão.
 
-Participei do desenvolvimento da solução, explorando conceitos de **Data Engineering, Analytics, Business Intelligence e Inteligência Artificial**.
+Participei do desenvolvimento da solução, explorando conceitos de **Data Engineering, Analytics, Cloud Computing, Business Intelligence e Inteligência Artificial**.
 
 `Oracle` `OCI` `SQL` `Databricks` `Power BI` `Docker` `Airflow` `IA`
 
@@ -88,6 +88,25 @@ Participei do desenvolvimento da solução, explorando conceitos de **Data Engin
 </td>
 
 <td width="50%" valign="top">
+
+### 🌍 H.O.P.E.
+
+**Humanitarian Operations for Prediction and Emergency Response**
+
+Protótipo acadêmico desenvolvido para apoiar equipes de emergência em cenários de desastre, integrando dados geográficos, meteorológicos e de ocorrências para análise de risco e sugestão de rotas mais seguras.
+
+Participei da concepção da solução, definição da arquitetura e exploração de tecnologias voltadas a **Data Engineering, análise geoespacial, grafos, APIs e processamento de dados**.
+
+`Python` `GeoPandas` `NetworkX` `PostgreSQL` `PostGIS` `Airflow` `FastAPI` `Docker`
+
+<br>
+
+[![Ver Projeto](https://img.shields.io/badge/Ver%20Projeto-F4A6C1?style=flat-square&logo=github&logoColor=white)](LINK_DO_REPOSITORIO_HOPE)
+
+</td>
+
+</tr>
+</table>
 
 ### 📊 Próximos Projetos
 
