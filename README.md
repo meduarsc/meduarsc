@@ -6,10 +6,6 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D96C9D?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-campos-da-silva-80828126a)
-[![Email](https://img.shields.io/badge/Email-C85A8E?style=flat-square&logo=gmail&logoColor=white)](mailto:eduardamaria.silva14@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-D96C9D?style=flat-square&logo=github&logoColor=white)](https://github.com/meduarsc)
-
 </div>
 
 ---
