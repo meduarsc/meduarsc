@@ -24,7 +24,7 @@ jobs:
           github_user_name: meduarsc
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ff2ea6
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#F4A6C1
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
