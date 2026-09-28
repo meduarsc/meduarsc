@@ -101,7 +101,7 @@ Participei da concepção da solução, definição da arquitetura e exploraçã
 
 <br>
 
-[![Ver Projeto](https://img.shields.io/badge/Ver%20Projeto-F4A6C1?style=flat-square&logo=github&logoColor=white)](LINK_DO_REPOSITORIO_HOPE)
+[![Ver Projeto](https://img.shields.io/badge/Ver%20Projeto-F4A6C1?style=flat-square&logo=github&logoColor=white)](https://github.com/meduarsc/HOPE)
 
 </td>
 
