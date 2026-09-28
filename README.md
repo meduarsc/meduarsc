@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,20,24&text=Maria%20Eduarda&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Data%20Science%20%7C%20Artificial%20Intelligence&descAlignY=55&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:F8BBD0,50:F4A6C1,100:E88AB0&text=Maria%20Eduarda&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Data%20Science%20%7C%20Artificial%20Intelligence&descAlignY=55&descSize=17"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=CF6DFF&center=true&vCenter=true&width=600&lines=Data+Science+%26+Artificial+Intelligence;Python+%7C+SQL+%7C+Cloud;Learning+Machine+Learning;Transformando+dados+em+decis%C3%B5es." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=A93E73&center=true&vCenter=true&width=600&lines=Data+Science+%26+Artificial+Intelligence;Python+%7C+SQL+%7C+Power+BI;Transformando+dados+em+decis%C3%B5es." />
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-campos-da-silva-80828126a)
-[![Email](https://img.shields.io/badge/Email-C45AFF?style=flat-square&logo=gmail&logoColor=white)](mailto:eduardamaria.silva14@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-6A0DAD?style=flat-square&logo=github&logoColor=white)](https://github.com/meduarsc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D96C9D?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-campos-da-silva-80828126a)
+[![Email](https://img.shields.io/badge/Email-C85A8E?style=flat-square&logo=gmail&logoColor=white)](mailto:eduardamaria.silva14@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-D96C9D?style=flat-square&logo=github&logoColor=white)](https://github.com/meduarsc)
 
 </div>
 
@@ -16,9 +16,14 @@
 
 ## 👩🏻‍💻 Sobre mim
 
-Sou estudante com foco em **Data Science e Inteligência Artificial**, desenvolvendo conhecimentos em programação, bancos de dados, análise de dados e computação em nuvem.
-Atualmente estou aprofundando meus estudos em **Python e SQL**, enquanto exploro áreas como **Machine Learning, Cloud Computing e Data Engineering**.
-Meu objetivo é utilizar dados e tecnologia para desenvolver soluções capazes de transformar informação em **decisões inteligentes e impacto real**.
+
+🎓 Data Science student
+
+🐍 Python | SQL | Power BI
+
+🤖 AI | Machine Learning | Cloud
+
+📊 Explorando o mundo dos dados
 
 ---
 
@@ -78,7 +83,7 @@ Participei do desenvolvimento da solução, explorando conceitos de **Data Engin
 
 <br>
 
-[![Ver Projeto](https://img.shields.io/badge/Ver%20Projeto-8A2BE2?style=flat-square&logo=github&logoColor=white)](https://github.com/bibisep/Medlytics)
+[![Ver Projeto](https://img.shields.io/badge/Ver%20Projeto-F4A6C1?style=flat-square&logo=github&logoColor=white)](https://github.com/bibisep/Medlytics)
 
 </td>
 
@@ -86,13 +91,13 @@ Participei do desenvolvimento da solução, explorando conceitos de **Data Engin
 
 ### 📊 Próximos Projetos
 
-Novos projetos de **Data Science, Python, SQL e Machine Learning** serão adicionados conforme avanço nos estudos e no desenvolvimento do portfólio.
+Novos projetos de **Data Science, Python, SQL e Machine Learning** serão adicionados conforme avanço nos estudos.
 
 `Python` `Data Science` `SQL` `Machine Learning`
 
 <br>
 
-![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-C45AFF?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-F4A6C1?style=flat-square)
 
 </td>
 
@@ -108,51 +113,11 @@ C:\meduarsc> current_goals
 
 [████████████░░░]  Aprimorar Python
 [██████████░░░░░]  Evoluir SQL
-[███████░░░░░░░░]  Cloud Computing
+[███████░░░░░░░░]  Data Engineering
 [█████░░░░░░░░░░]  Machine Learning
 
 STATUS: aprendendo, construindo e evoluindo...
 ```
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=meduarsc&show_icons=true&hide_border=true&title_color=C45AFF&icon_color=8A2BE2&text_color=777777&bg_color=00000000"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meduarsc&layout=compact&hide_border=true&title_color=C45AFF&text_color=777777&bg_color=00000000"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=meduarsc&hide_border=true&background=00000000&ring=C45AFF&fire=8A2BE2&currStreakLabel=C45AFF&sideLabels=777777&dates=999999"/>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=meduarsc&bg_color=transparent&color=8A2BE2&line=C45AFF&point=8A2BE2&area=true&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=meduarsc&theme=flat&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6"/>
-
-</div>
 
 ---
 
@@ -163,23 +128,22 @@ STATUS: aprendendo, construindo e evoluindo...
 <img src="https://raw.githubusercontent.com/meduarsc/meduarsc/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
-
 ---
 
 ## ✨ Conecte-se
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-campos-da-silva-80828126a)
-[![Email](https://img.shields.io/badge/EMAIL-C45AFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardamaria.silva14@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meduarsc)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-F4A6C1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-campos-da-silva-80828126a)
+[![Email](https://img.shields.io/badge/EMAIL-A93E73?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardamaria.silva14@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-F4A6C1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meduarsc)
 
 <br><br>
 
-`Transformando dados em decisões inteligentes, um commit de cada vez.`
+`Onde dados encontram códigos e curiosidade vira projeto.`
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=12,20,24"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:F8BBD0,50:F4A6C1,100:E88AB0"/>
 
 </div>
